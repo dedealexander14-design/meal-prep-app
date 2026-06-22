@@ -1,18 +1,21 @@
-# Meal Prep App
+# Queen Exlaiar Wellness Meal Prep App
 
-A meal planning application designed to help users organize meals, track nutrition, and prepare weekly meal plans.
+A wellness and meal planning application designed to help users discover healthy meals, wellness solutions, and nutrition-focused lifestyle support.
 
 ## Features
+- Meal planning
+- Wellness-focused design
+- Mobile-friendly experience
+- Nutrition guidance
+- Modern user interface
 
-- Weekly meal planning
-- Nutrition tracking
-- Meal organization
-- Healthy meal recommendations
-- Mobile-friendly design
+## Live Demo
+
+https://exlaiar-wellness-luxe.lovable.app
 
 ## Purpose
 
-This project helps users simplify meal preparation and stay on track with their nutrition goals.
+This project was created to support healthy living through meal planning, wellness resources, and nutrition-focused tools.
 
 ## Status
 
@@ -22,5 +25,5 @@ Live and Published 🚀
 
 - Grocery list generation
 - Macro tracking
-- Recipe management
 - User accounts
+- Meal customization
